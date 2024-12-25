@@ -819,7 +819,8 @@ CSS FOR PAGE 4:
 
 ## OUTPUT:
 
-![alt text](<Screenshot 2024-12-19 184710.png>)
+![WhatsApp Image 2024-12-25 at 14 24 34_e0dbcfcd](https://github.com/user-attachments/assets/0fef4b4a-b52e-4a81-91e3-10249877a2e5)
+
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
